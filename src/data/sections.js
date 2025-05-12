@@ -123,8 +123,8 @@ export const sections = [
   },
   {
     id: 11,
-    backgroundGif: "https://animesher.com/orig/1/150/1503/15030/animesher.com_tokyo-ghoul-sigure-gif-1503092.gif",
-    foregroundGif: "https://animesher.com/orig/1/150/1503/15030/animesher.com_tokyo-ghoul-sigure-gif-1503092.gif",
+    backgroundGif: "https://64.media.tumblr.com/450324c5aca4bd6619135e20be31a2d3/tumblr_n8k5n6mLxo1qi34sfo1_500.gifv",
+    foregroundGif: "https://64.media.tumblr.com/450324c5aca4bd6619135e20be31a2d3/tumblr_n8k5n6mLxo1qi34sfo1_500.gifv",
     alt: "Slide 11",
     text: "<貪欲/Hubris> I was still looking for more ",
     signature: ""   
