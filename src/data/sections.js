@@ -3,7 +3,7 @@ export const sections = [
     id: 1,
     image: "https://payload.cargocollective.com/1/14/466639/12910712/cookie_1250.png",
     alt: "Slide 1",
-    header: "💻 pls ♥ ",
+    header: "",
     text: "< ♥ 一 お 願 い /   ̷ ̷ ̷4̷ ̷w̷ ̷i̷ ̷v̷ ̷e̷ ̷s̷ ̷ ̷  " , 
     signature:  "<1  p l e a s e  ♥ > \n" + "< ごめんね / s o r r y >\n" +
 "⠤⣤⣤⣤⣄⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⠤⠤⠴⠶⠶⠶⠶\n" +
