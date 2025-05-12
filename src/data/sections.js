@@ -98,7 +98,7 @@ export const sections = [
   {
     id: 8,
     youtubeId: "XZMJot6lL1A",
-    startTime: 0.5,
+    startTime: 1,
     foregroundVideo: true,
     image: "https://i.imgur.com/XVBsMH6.gif",
     alt: "Slide 8",
