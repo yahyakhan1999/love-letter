@@ -1,0 +1,28 @@
+.next-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgba(230, 230, 250, 0.2); /* Lavender with transparency */
+  border: 2px solid #E6E6FA; /* Lavender border */
+  color: #E6E6FA; /* Lavender text */
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  z-index: 1000;
+  padding: 0;
+  margin-left: 5px;
+  font-size: 20px;
+  box-shadow: 0 0 10px rgba(230, 230, 250, 0.3); /* Lavender glow */
+}
+
+.next-button:hover {
+  background-color: rgba(230, 230, 250, 0.3);
+  box-shadow: 0 0 15px #E6E6FA,
+              0 0 30px #E6E6FA; /* Enhanced lavender glow on hover */
+  transform: scale(1.05);
+} 
